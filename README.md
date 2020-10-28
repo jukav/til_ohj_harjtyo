@@ -1,0 +1,2 @@
+# til_ohj_harjtyo
+Harjoityössä käsitellään Kurjenmiekat (Iris) aineistoa. Aineisto koostuu kolmesta eri Kurjenmiekkalajista: Iris Setosa, Iris Versicolor ja Iris Virginica. Datassa on havaintoja on yhteensä 150 kappaletta.Data sisältää mittauksia kasvijajien terälehtien pitudesta ja leveydestä, sekä verholehtien pituudesta ja leveydestä. Havaintoja on yhteensä 150 kappaletta. Aineistossa pyritään selittämään lineaarisella mallilla verholehden pituutta käyttäen selittäjänä verholehden leveyttä.
